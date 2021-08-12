@@ -4,6 +4,8 @@
 
 https://deno.land/#installation
 
+(由于兼容性问题，请使用deno 12.2，https://github.com/denoland/deno/releases/tag/v1.12.2)
+
 ## 安装SQLite3
 
 https://sqlite.org/
